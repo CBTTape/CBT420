@@ -1,0 +1,9 @@
+2023-04-03 00:10:37.954260 - Initialized conversion of CBT420
+2023-04-03 00:10:38.089515 - Received CBT.V504.FILE420.PDS from FILE420.XMI 
+2023-04-03 00:10:38.091241 - Found BYACC.bin containing application/octet-stream, moved to PDS/BYACC
+2023-04-03 00:10:38.092595 - Found FLEX.bin containing application/octet-stream, moved to PDS/FLEX
+2023-04-03 00:10:38.093970 - Found GREP.bin containing application/octet-stream, moved to PDS/GREP
+2023-04-03 00:10:38.095221 - Found INDENT.bin containing application/octet-stream, moved to PDS/INDENT
+2023-04-03 00:10:38.097007 - Found PRINTPS.bin containing application/octet-stream, moved to PDS/PRINTPS
+2023-04-03 00:10:38.098133 - Found WHAT.bin containing application/octet-stream, moved to PDS/WHAT
+2023-04-03 00:10:38.099356 - No @FILExxx or @FILxxxx detected, creating README.md without extra info
